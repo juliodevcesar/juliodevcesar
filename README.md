@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Julio Cesar!
 
-Atualmente formado em Análise e Desenvolvimento de Sistemas pela Faculdade Brasília. Tenho experiência acadêmica e prática adquirida em curso técnico e na graduação, organização de código, arquitetura de sistemas e aplicações modernas com Django.
+Atualmente cursando Engenharia da Computação pela faculdade Anhanguera. Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Brasília. Tenho experiência acadêmica e prática adquirida em curso técnico e na graduação, organização de código, arquitetura de sistemas e aplicações modernas com Django.
 
 Também participei de um curso de Desenvolvimento de Software com formação BackEnd, com foco em Python e Django, realizado no Instituto Federal de Brasília (IFB).
 Ênfase em programação orientada a objetos, bancos de dados, arquitetura MVC e boas práticas de desenvolvimento.
