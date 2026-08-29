@@ -5,11 +5,13 @@ Atualmente cursando Engenharia da Computação pela faculdade Anhanguera. Sou fo
 Também participei de um curso de Desenvolvimento de Software com formação BackEnd, com foco em Python e Django, realizado no Instituto Federal de Brasília (IFB).
 Ênfase em programação orientada a objetos, bancos de dados, arquitetura MVC e boas práticas de desenvolvimento.
 
+Atualmente realizando um curso de 120h de JAVA e SPRING REST - AlgaWorks
+
 <h2 align="left">Habilidades</h2>
 
 ###
 
-<p align="left">💻 Linguagens: Python<br>🌐 Desenvolvimento Web/Frameworks: Django, WebServices.<br> 🛠️ Ferramentas e Versionamento: Git/GitHub, VSCode.<br> 📐 Engenharia de Software: Padrões de Desenvolvimento de Software, Integração entre Banco de Dados e Orientação a Objetos, Metodologias Ágeis (Scrum)<br>
+<p align="left">💻 Linguagens: Python, Java, SQL<br>🌐 Desenvolvimento Web/Frameworks: Django, WebServices, WordPress.<br> 🛠️ Ferramentas e Versionamento: Git/GitHub, VSCode.<br> 📐 Engenharia de Software: Padrões de Desenvolvimento de Software, Integração entre Banco de Dados e Orientação a Objetos, Metodologias Ágeis (Scrum)<br>
 
 
 ### 👥 Conecte-se comigo
