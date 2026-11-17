@@ -11,7 +11,7 @@ Atualmente realizando um curso de 120h de JAVA e SPRING REST - AlgaWorks
 
 ###
 
-<p align="left">💻 Linguagens: Python, Java, SQL<br>🌐 Desenvolvimento Web/Frameworks: Django, WebServices, WordPress.<br> 🛠️ Ferramentas e Versionamento: Git/GitHub, VSCode.<br> 📐 Engenharia de Software: Padrões de Desenvolvimento de Software, Integração entre Banco de Dados e Orientação a Objetos, Metodologias Ágeis (Scrum)<br>
+<p align="left">💻 Linguagens: Python, Java, SQL<br>🌐 Desenvolvimento Web/Frameworks: Django, Spring Boot, WebServices, WordPress.<br> 🛠️ Ferramentas e Versionamento: Git/GitHub, VSCode.<br> 📐 Engenharia de Software: Padrões de Desenvolvimento de Software, Integração entre Banco de Dados e Orientação a Objetos, Metodologias Ágeis (Scrum)<br>
 
 
 ### 👥 Conecte-se comigo
